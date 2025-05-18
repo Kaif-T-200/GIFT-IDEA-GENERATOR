@@ -28,8 +28,3 @@
 - Python 3.7+
 - Streamlit
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<YourUsername>/ultimate-gift-genius.git
-   cd ultimate-gift-genius
